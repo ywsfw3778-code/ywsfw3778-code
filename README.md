@@ -1,6 +1,6 @@
 # Hi, I'm Youssef Waleed 👋
 
-**aka Kyouma (Hououin Kyouma)** — Flutter & Game Developer from Alexandria, Egypt 🇪🇬
+**aka Kyouma (Hououin Kyouma)** — Flutter & Android Developer from Alexandria, Egypt 🇪🇬
 
 I build complete, polished apps — not just prototypes. From offline-first mobile apps to real-time chat, I like turning an idea into something you can actually use.
 
@@ -9,8 +9,7 @@ I build complete, polished apps — not just prototypes. From offline-first mobi
 ## 🛠️ Tech Stack
 
 - **Mobile:** Flutter & Dart, Kotlin & Jetpack Compose
-- **Languages:** Python, C#, GDScript, SQL
-- **Game Dev:** Godot 4, Unity, Blender
+- **Languages:** Python, SQL
 - **Backend:** Supabase, Firebase, SQL
 - **Tools:** Git & GitHub, VS Code, ADB & Android debugging, Linux
 
@@ -35,7 +34,6 @@ Available for freelance projects:
 
 - **Flutter apps** — small apps, features, bug fixes
 - **Python** — scripts, automation, small tools
-- **Game prototypes** — Godot / Unity
 
 📫 Reach me here on GitHub — open an issue or start a discussion.
 
