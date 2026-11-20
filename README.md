@@ -27,9 +27,6 @@ A Steins;Gate-inspired chat website with login, friend requests, an admin panel,
 ### 🎬 Offline Video Player
 Native Flutter app that plays videos stored on your phone — fully offline, no uploads. File picker, resume playback, and a clean OLED dark UI.
 
-### 🌑 Dark Knight Metroidvania — Godot 4
-Pixel-art Metroidvania with a dark atmosphere, built in Godot 4.2+.
-
 ---
 
 ## 💼 Open to Work
