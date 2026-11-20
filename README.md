@@ -27,6 +27,9 @@ A Steins;Gate-inspired chat website with login, friend requests, an admin panel,
 ### 🎬 Offline Video Player
 Native Flutter app that plays videos stored on your phone — fully offline, no uploads. File picker, resume playback, and a clean OLED dark UI.
 
+### 📺 AniPlayer
+Android app for watching anime, series and movies — built with Kotlin and Jetpack Compose, with a local library, playback position memory, and an offline mode.
+
 ---
 
 ## 💼 Open to Work
