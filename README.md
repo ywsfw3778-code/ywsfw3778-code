@@ -20,6 +20,8 @@ I build complete, polished apps — not just prototypes. From offline-first mobi
 ### 🎵 Sukoon — Nocturne (Music Player)
 Native Android music player built with Kotlin, Jetpack Compose, Material 3 and ExoPlayer. Super AMOLED pure black + glass UI, local music library, playlists & favorites, synced lyrics, and full Arabic (RTL) + English support.
 
+([repo](https://github.com/ywsfw3778-code/music-app) · [download v3.0](https://github.com/ywsfw3778-code/music-app/releases/tag/v3.0))
+
 ### 💬 Lab Members — Chat Website
 A Steins;Gate-inspired chat website with login, friend requests, an admin panel, and real-time messaging — built with Supabase and Firebase, plus an Android app. ([repo](https://github.com/ywsfw3778-code/lap))
 
